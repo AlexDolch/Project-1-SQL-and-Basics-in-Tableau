@@ -10,7 +10,7 @@
  Our group decided for a pretty straightforward approach against a Takeover,  
  since the data clearly indicated that early on.  
  We learned to use:
- - SQL 
- - Tableau
+ - **SQL**
+ - **Tableau**
 
 ---
