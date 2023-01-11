@@ -1,6 +1,6 @@
 ## First project of the Data Science Bootcamp @WBS Coding School
 
-###   Which is just a presentation
+###   Which was just a presentation
 
 ---
 
