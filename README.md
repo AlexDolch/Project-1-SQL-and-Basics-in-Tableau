@@ -1,6 +1,6 @@
 ## First project of the Data Science Bootcamp @WBS Coding School
 
-###   Which was just a presentation
+###   SQL and Data Visualization with Tableau
 
 ---
 
