@@ -14,7 +14,7 @@
  - **SQL**
  - **Tableau**  
  
- The "Projeect-Dump" Folder contains some of the queries we wrote for the questions we had,
+ The "Project-Dump" Folder contains some of the queries we wrote for the questions we had,
  some of them even remained unanswered/ got lost :D
 
 ---
