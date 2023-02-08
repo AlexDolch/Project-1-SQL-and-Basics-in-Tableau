@@ -9,9 +9,11 @@
  evaluate a possible Takeover by another company called "Eniac".  
  Our group decided for a pretty straightforward approach against a Takeover,  
  since the data clearly indicated that early on.  
+ 
  We learned to use:
  - **SQL**
- - **Tableau**
+ - **Tableau**  
+ 
  The "Projeect-Dump" Folder contains some of the queries we wrote for the questions we had,
  some of them even remained unanswered/ got lost :D
 
